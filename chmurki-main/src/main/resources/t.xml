@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<locations>
+    <username>johnny</username>
+    <location>
+        <latitude>51.79132355377078</latitude><longitude>19.46410140953958</longitude>
+        <time>2022-01-13 13:32:25</time>
+    </location>
+    <location>
+        <latitude>51.791377323679626</latitude><longitude>19.464104594662786</longitude>
+        <time>2022-01-13 13:32:28</time></location>
+    <location>
+        <latitude>51.79142413660884</latitude><longitude>19.46410627104342</longitude>
+        <time>2022-01-13 13:32:39</time>
+    </location>
+    <location>
+        <latitude>51.79149634670466</latitude><longitude>19.464112054556608</longitude>
+        <time>2022-01-13 13:32:49</time>
+    </location>
+</locations>
